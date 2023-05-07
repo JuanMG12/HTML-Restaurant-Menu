@@ -51,6 +51,10 @@ nav a {
 nav a:hover {
     color: darkred;
 }
+#banner {
+    width: 100%;
+    height: auto;
+}
 
 #banner {
     width: 100%;
@@ -73,7 +77,10 @@ nav a:hover {
     padding: 20px;
     margin: 10px;
 }
-
+.service {
+    display: inline-block;
+    text-align: center;
+}
 table {
     border: 3px solid black;
     width: 100%;
@@ -83,4 +90,5 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
-}
+}nav {
+    width: 100%;
